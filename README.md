@@ -1,5 +1,13 @@
 # SelectComplete
 
+<div align="center">
+
+| Preview
+| :------------------------------------------------------------------------------------:
+| <img src="https://raw.githubusercontent.com/CristhianFSantos/autocomplete-material-input/master/src/assets/input.gif" alt="Desktop"/>
+
+</div>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.2.
 
 ## Development server
